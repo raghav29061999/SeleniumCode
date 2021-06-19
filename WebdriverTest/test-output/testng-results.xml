@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-19T22:16:24 IST" name="Default suite" finished-at="2021-06-19T22:17:07 IST" duration-ms="42555">
+    <groups>
+    </groups>
+    <test started-at="2021-06-19T22:16:24 IST" name="Default test" finished-at="2021-06-19T22:17:07 IST" duration-ms="42555">
+      <class name="stepbystep.openpage">
+        <test-method signature="openingtheWebPage()[pri:1, instance:stepbystep.openpage@12b0404f]" started-at="2021-06-19T22:16:24 IST" name="openingtheWebPage" finished-at="2021-06-19T22:16:29 IST" duration-ms="5003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingtheWebPage -->
+        <test-method signature="selectingFlights()[pri:2, instance:stepbystep.openpage@12b0404f]" started-at="2021-06-19T22:16:30 IST" name="selectingFlights" finished-at="2021-06-19T22:16:30 IST" duration-ms="868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingFlights -->
+        <test-method signature="scroll()[pri:3, instance:stepbystep.openpage@12b0404f]" started-at="2021-06-19T22:16:30 IST" name="scroll" finished-at="2021-06-19T22:16:31 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method signature="selectingoptions()[pri:4, instance:stepbystep.openpage@12b0404f]" started-at="2021-06-19T22:16:31 IST" name="selectingoptions" finished-at="2021-06-19T22:16:58 IST" duration-ms="27088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingoptions -->
+        <test-method signature="closingwindow()[pri:5, instance:stepbystep.openpage@12b0404f]" started-at="2021-06-19T22:16:58 IST" name="closingwindow" finished-at="2021-06-19T22:17:07 IST" duration-ms="9283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingwindow -->
+      </class> <!-- stepbystep.openpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
